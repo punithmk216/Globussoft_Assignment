@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+python-multipart
+numpy
+pandas
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+lxml
